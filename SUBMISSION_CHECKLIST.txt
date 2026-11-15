@@ -1,0 +1,9 @@
+[ ] Run 'ollama pull llama3.2:1b'
+[ ] Run 'python run_experiment.py'
+[ ] Verify results.csv and summary.csv have been generated
+[ ] Open REPORT.html and verify charts and outputs
+[ ] Add student name, register number, class and date to PDF/report
+[ ] Capture screenshots showing Ollama and experimental results
+[ ] Save REPORT.html as PDF via Chrome Print
+[ ] Submit PDF, Python code, CSV files and screenshots
+[ ] Do not claim experiments were conducted until local run completes

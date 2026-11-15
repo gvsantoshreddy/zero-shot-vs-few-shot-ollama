@@ -1,0 +1,5 @@
+mode,task,accuracy_percent,consistency_percent,avg_prompt_tokens,avg_output_tokens,avg_seconds,runs
+zero-shot,classification,100.0,100.0,45.8,3.0,0.16,30
+zero-shot,qa,100.0,100.0,40.6,3.0,0.16,30
+few-shot,classification,100.0,100.0,85.8,2.47,0.16,30
+few-shot,qa,90.0,100.0,89.6,3.0,0.17,30
